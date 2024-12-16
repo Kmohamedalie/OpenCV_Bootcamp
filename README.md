@@ -1,5 +1,10 @@
 # OpenCV  Bootcamp
-OpenCV Computer Vision library
+
+Learn the fundamentals of [ OpenCV Computer Vision library](https://opencv.org/)
+
+![image](https://github.com/user-attachments/assets/fdafa279-a2e1-43ca-88fd-2c3de603e481)
+
+
 
  <br/>
 
