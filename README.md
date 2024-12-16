@@ -1,4 +1,4 @@
-# OpenCV  Bootcamp
+# [Official OpenCV  Bootcamp ](https://courses.opencv.org/courses/course-v1:OpenCV+Bootcamp+CV0/course/)
 
 Learn the fundamentals of [ OpenCV Computer Vision library](https://opencv.org/)
 
